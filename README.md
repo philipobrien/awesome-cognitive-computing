@@ -1,5 +1,9 @@
 # awesome-cognitive-computing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Taking inspiration (and material) from
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 
 ## License
